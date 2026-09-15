@@ -40,7 +40,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/IgorKPetersson/litellm-prompt-injection-guard.git
-cd litellm-prompt-guard
+cd litellm-prompt-injection-guard
 ```
 
 Create a virtual environment:
