@@ -39,7 +39,7 @@ litellm-prompt-guard/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/litellm-prompt-guard.git
+git clone https://github.com/IgorKPetersson/litellm-prompt-injection-guard.git
 cd litellm-prompt-guard
 ```
 
@@ -221,4 +221,4 @@ pip install -r requirements.txt
 
 ## License
 
-This project can be released under the MIT License if desired.
+This project is released under the MIT License.
